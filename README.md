@@ -1,37 +1,14 @@
-<<<<<<< HEAD
-<font size="5">**<h3 style="text-align: center;">Data Analysis Project</h3>**</font>
-##
-
-    Hello my name is Dat Duong, and welcome to my github.
-This repository is dedicated to my data analysis projects.
-Each folder has a seperate dataset with their own respective problem
-and solution.
-
-    Thank you for browsing my github.
-
-
-
-
-
-
-
-
-=======
 <font size="5">**<h3 style="text-align: center;">Data Analysis Project</h3>**</font>
 ##
 
 Hello my name is Dat Duong, and welcome to my github.
+
 This repository is dedicated to my data analysis projects.
-Each folder has a seperate dataset with their own respective problem
-and solution.
+Each folder has a seperate dataset with their own respective problem, analysis, and solution.
 
 Thank you for browsing my github.
 
 
 
 
-
-
-
-
->>>>>>> a4b25f0930bd533cc1f737bfecc1f37a8b8b341c
+ok
