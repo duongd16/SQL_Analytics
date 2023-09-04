@@ -1,24 +1,13 @@
-<font size="5">**<h3 style="text-align: center;">Accenture Analysis</h3>**</font>
+<font size="5">**<h3 style="text-align: center;">Data Analysis Project</h3>**</font>
+##
 
-<font size="3">
+Hello my name is Dat Duong, and welcome to my github.
 
-Links
-***
+This repository is dedicated to my data analysis projects.
+Each folder has a seperate dataset with their own respective problem, analysis, and solution.
 
-* SQL Analysis Of Accenture Data Sets
-  + Link: https://rpubs.com/datmd/1077490
-  <br><br>
+Thank you for browsing my github.
 
-
-* Tableau Vizualization Link
-  + Link: https://public.tableau.com/app/profile/dat.duong4772/viz/Accenture1_16937838466660/Dashboard1#2
-
-</font>
-
-
-  
-
-  
 
 
 
