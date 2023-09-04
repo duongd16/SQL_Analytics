@@ -5,9 +5,12 @@
 Folders
 ***
 
-* CSV Files contains raw and uncleaned data sets
+* CSV Files (Uncleaned) contains raw and uncleaned data sets
   <br><br>
-  
+
+* CSV Files Cleaned contains altered and cleaned data sets
+  <br><br>
+
 Links
 ***
 
