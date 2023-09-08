@@ -11,7 +11,7 @@ Folders
 * CSV Files Cleaned contains altered and cleaned data sets
   <br><br>
 
-Links
+Links (may take a while to load)
 ***
 
 * SQL Analysis Of Accenture Data Sets
