@@ -15,7 +15,7 @@ Links (may take a while to load)
 ***
 
 * SQL Analysis Of Accenture Data Sets
-  + Link: https://rpubs.com/datmd/1077893
+  + Link: [https://rpubs.com/datmd/1077893](https://rpubs.com/datmd/1079478)
   <br><br>
 
 
