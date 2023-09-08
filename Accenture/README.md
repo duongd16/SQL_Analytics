@@ -20,7 +20,7 @@ Links (may take a while to load)
 
 
 * Tableau Vizualization Link
-  + Link: https://public.tableau.com/app/profile/dat.duong4772/viz/Accenture1_16937838466660/Dashboard1
+  + Link: https://public.tableau.com/app/profile/dat.duong4772/viz/TheForagesAccentureAnalysis/Dashboard1
 
 </font>
 
