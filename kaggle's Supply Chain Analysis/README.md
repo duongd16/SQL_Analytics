@@ -11,7 +11,7 @@ Folders
 Links (may take a while to load)
 ***
 
-* SQL Analysis Of kaggle Supply Chain Analysis
+* SQL Analysis Of kaggle Supply Chain 
   + Link: https://rpubs.com/datmd/1079477
   <br><br>
 
