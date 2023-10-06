@@ -12,7 +12,7 @@ Folders
 Links
 ***
 
-* SQL Analysis Of KPMG Sprocket Central Sales
+* SQL Analysis of KPMG Sprocket Central Bike Sales
   + Link: 
   <br><br>
 
