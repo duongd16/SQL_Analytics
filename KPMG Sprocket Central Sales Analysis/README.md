@@ -13,7 +13,7 @@ Links
 ***
 
 * SQL Analysis of KPMG Sprocket Central Bike Sales
-  + Link: https://rpubs.com/datmd/1101693
+  + Link: [https://rpubs.com/datmd/1101693](https://rpubs.com/datmd/1101696)
   <br><br>
 
 
