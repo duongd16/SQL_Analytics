@@ -6,7 +6,7 @@
 Folders
 ***
 
-* CSV Files Cleaned contains altered and cleaned data sets
+* CSV Files Cleaned, contains altered and cleaned data sets
   <br><br>
 
 Links
@@ -18,7 +18,7 @@ Links
 
 
 * Tableau Vizualization Link
-  + Link: 
+  + Link: https://public.tableau.com/app/profile/dat.duong4772/viz/kpmg_16966527045200/MonthlyIncomeAnalysis
 
 </font>
 
