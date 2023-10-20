@@ -5,13 +5,13 @@
 Folders
 ***
 
-* CSV Files Cleaned contains altered and cleaned data sets
+* CSV Files Cleaned, contains altered and cleaned data sets
   <br><br>
 
 Links (may take a while to load)
 ***
 
-* SQL Analysis Of kaggle Supply Chain 
+* SQL Analysis of kaggle Supply Chain 
   + Link: https://rpubs.com/datmd/1079477
   <br><br>
 
