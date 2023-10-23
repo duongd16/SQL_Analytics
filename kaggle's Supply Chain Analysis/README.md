@@ -12,7 +12,7 @@ Links (may take a while to load)
 ***
 
 * SQL Analysis of kaggle Supply Chain 
-  + Link: https://rpubs.com/datmd/1079477
+  + Link: https://rpubs.com/datmd/1103025
   <br><br>
 
 
