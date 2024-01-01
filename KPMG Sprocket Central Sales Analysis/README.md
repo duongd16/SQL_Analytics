@@ -6,10 +6,13 @@
 Folders
 ***
 
-* CSV Files Cleaned, contains altered and cleaned data sets
+* CSV Files (Uncleaned) contains raw and uncleaned data sets
   <br><br>
 
-Links
+* CSV Files Cleaned contains altered and cleaned data sets
+  <br><br>
+
+Links (may take a while to load)
 ***
 
 * SQL Analysis of KPMG Sprocket Central Bike Sales
